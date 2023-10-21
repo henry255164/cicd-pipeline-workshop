@@ -1,2 +1,4 @@
 nginx:
   image: nginx:latest
+  port: 80
+  targetPort: 80
